@@ -29,8 +29,7 @@ The website showcases responsive layout design, scroll animations, and modern UI
 - Enhanced skills in **UI/UX refinement and animations**
 
 ---
-
-<img width="1891" height="885" alt="image" src="https://github.com/user-attachments/assets/87b2de26-bfb9-4250-b872-eda9706ac28b" />
+<img width="1889" height="883" alt="image" src="https://github.com/user-attachments/assets/93b1831f-2679-4617-8e2b-550be3d47203" />
 
 <img width="1883" height="888" alt="image" src="https://github.com/user-attachments/assets/2b35fdf2-deba-4506-ae73-ca748a0d501e" />
 
